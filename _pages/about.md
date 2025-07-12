@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a self-motivated AI researcher and engineer with a BSc in Electrical & Information Engineering from the University of Ruhuna (GPA 3.75/4.0). I specialize in machine learning and computer vision, with hands-on experience in sensing systems, deep neural networks, and real-time image processing. I love pushing the boundaries of AI to solve practical problems—everything from drone detection to drowsiness monitoring.
+I’m a self-motivated AI researcher and engineer with a BSc in Electrical & Information Engineering from the University of Ruhuna (GPA 3.79/4.0). I specialize in machine learning and computer vision, with hands-on experience in sensing systems, deep neural networks, and real-time image processing. I love pushing the boundaries of AI to solve practical problems—everything from drone detection to drowsiness monitoring.
 
 Key Highlights
 ======
@@ -30,13 +30,6 @@ Key Highlights
 
 Getting started
 ======
-
-Whether you’re here to explore my research, see what I’ve built, or just say hello, you can dive right in:
-
-1. **Research & Publications** – Learn more about my drone detection and RF-sensing work, read my IEEE papers, and find links to talks and posters.  
-2. **Projects** – Browse hands-on demos: real-time drowsiness detection, medical glove inspection, handwritten digit recognition, and more.  
-3. **Experience** – See how I’ve applied ML & CV in both industrial and cybersecurity settings.  
-4. **Contact** – Interested in collaborating or having a chat? Find my email, LinkedIn, and GitHub links below.
 
 > Ready to jump in? [Explore my projects →](/projects)  
 > Or [download my full CV](/files/Dilshara_Herath_CV.pdf) to get all the details.  
