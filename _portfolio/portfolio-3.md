@@ -4,7 +4,6 @@ excerpt: "<img src='/images/projects/drowsiness/system2.png' style='width:60%; m
 collection: portfolio
 ---
 
-[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-%2312100E?logo=github&style=for-the-badge)](https://github.com/DilsharaHerath/Vision-Based-Driver-Drowsiness-Monitoring)
 
 Driver drowsiness remains a critical factor in road accidents, accounting for thousands of fatalities and injuries each year. This project presents a comprehensive evaluation of real-time, non-intrusive drowsiness detection methods using computer vision techniques, specifically leveraging YOLO (You Only Look Once) object detection architectures.
 
