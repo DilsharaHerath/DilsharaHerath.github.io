@@ -1,10 +1,10 @@
 ---
-title: "Vision-Based Driver Drowsiness Monitoring System Using YOLO"
+title: "Machine Fault Monitoring using Spectral Correlation and Deep Learning"
 excerpt: "<img src='/images/projects/drowsiness/system2.png' style='width:60%; max-width:400px;'>"
 collection: portfolio
 ---
 
-[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-%2312100E?logo=github&style=for-the-badge)](https://github.com/DilsharaHerath/Vision-Based-Driver-Drowsiness-Monitoring)
+[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-%2312100E?logo=github&style=for-the-badge)](https://github.com/DilsharaHerath/Intelligent-Fault-Detection-in-Rotating-Machinery)
 
 
 This project presents a robust deep learning approach to diagnose **bearing faults in rotating machinery** using **vibration signal processing** and **Spectral Correlation Density (SCD)** images. Early fault detection in bearings is vital to ensure equipment reliability, reduce maintenance costs, and prevent catastrophic failures in industrial systems.
