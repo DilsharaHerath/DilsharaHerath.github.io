@@ -1,13 +1,13 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: files\Dilshara_Herath_CV.pdf
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 Education
 ======
@@ -60,5 +60,5 @@ Teaching
   {% endfor %}</ul>
   
 Service and leadership
-======
+====== -->
 * Currently signed in to 43 different slack teams
