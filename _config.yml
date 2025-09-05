@@ -25,9 +25,9 @@ author:
   avatar           : "Dilshara.png"
   name             : "Dilshara Herath"
   pronouns         : # example: "she/her"  
-  bio              : "A driven and innovative researcher with a deep passion for advancing in Machine Learning and Bio-Medical Engineering."
+  bio              : "A driven and innovative researcher with a deep passion for advancing in Machine Learning and Signal Processing."
   location         : "Kandy, Sri Lanka"
-  employer         : "University of Ruhuna"
+  # employer         : "University of Ruhuna"
   employer         : "RA, University of Peradeniya"
   uri              : # URL
   email            : "dilshara.herath3@gmail.com" 
@@ -39,7 +39,7 @@ author:
   orcid            : "http://orcid.org/0009-0004-1071-1698"
   semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Dilshara-Herath?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
