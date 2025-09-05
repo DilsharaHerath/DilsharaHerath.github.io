@@ -1,12 +1,12 @@
 ---
 title: "Unveiling Misalignment Fault Severities: A Novel SCD-CNN Framework for Rotating Machinery"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-08-05
 venue: 'IEEE IECON 2025'
-slidesurl: 'http://academicpages.github.io/files/MERCon_2025_Slides.pptx'
+slidesurl: /files/MERCon_2025_Slides.pptx
 paperurl: 'https://www.researchgate.net/publication/395297908_Unveiling_Misalignment_Fault_Severities_A_Novel_SCD-CNN_Framework_for_Rotating_Machinery'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
