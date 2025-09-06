@@ -3,7 +3,7 @@ title: "Unveiling Misalignment Fault Severities: A Novel SCD-CNN Framework for R
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
-# excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper is about detecting shaft misalignment by integrating cyclostationary signal processing with deep learning.'
 date: 2025-08-14
 venue: 'MERCon 2025'
 slidesurl: 'https://docs.google.com/presentation/d/1JiMLeW11taiq26fHqtzFod48C3Zq2jVP/edit?usp=drive_link&ouid=118393945755563807099&rtpof=true&sd=true'
