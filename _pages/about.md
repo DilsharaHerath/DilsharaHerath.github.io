@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a self-motivated AI researcher and engineer with a BSc in Electrical & Information Engineering from the University of Ruhuna (GPA 3.79/4.0). I specialize in machine learning and computer vision, with hands-on experience in sensing systems, deep neural networks, and real-time image processing. I love pushing the boundaries of AI to solve practical problems—everything from drone detection to drowsiness monitoring.
-
- I am a fresh graduate from the **Electrical and Information Engineering** at the [University of Ruhuna](https://www.eng.ruh.ac.lk/) holding a First-Class Honours, (GPA 3.79/4.00). Currently I work as a **Research Assistant** at the Multidiscplinary AI Research Centre (MARC)[Multidiscplinary AI Research Centre (MARC)](https://marcuop.netlify.app/) at the [University of Peradeniya](https://eng.pdn.ac.lk/).
+ I am a fresh graduate from the **Electrical and Information Engineering** at the [University of Ruhuna](https://www.eng.ruh.ac.lk/) holding a **First-Class Honours**, (GPA 3.79/4.00). Currently I work as a **Research Assistant and Project Coordinator** at the [Multidiscplinary AI Research Centre (MARC)](https://marcuop.netlify.app/) at the [University of Peradeniya](https://eng.pdn.ac.lk/).
 
 I am interested in technology-driven **machine learning, signal processing, computer vision, and AI-driven applications**.
 
