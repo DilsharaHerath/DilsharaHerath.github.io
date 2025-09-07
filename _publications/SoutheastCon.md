@@ -4,7 +4,7 @@ collection: publications
 category: conferences            # or: manuscripts
 date: 2024-06-01
 venue: "SoutheastCon 2024"
-# venueurl: "https://example.com/icac2024"     # optional link to the conf/journal
+venueurl: "https://attend.ieee.org/southeastcon-2024/"     # optional link to the conf/journal
 status: "Published"          # optional
 authors:
   - name: Kumudu Senarathne
