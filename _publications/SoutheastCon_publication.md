@@ -11,6 +11,7 @@ authors:
   - name: Ashan Hatharasinghe
   - name: Wathsala Seram
   - name: Dilshara Herath
+    underline: true
   - name: Chatura Seneviratne
   - name: Arjuna Madanayake
 # award: "Outstanding Paper Award"              # optional
@@ -18,7 +19,7 @@ contribution: "Writing – Original Draft."
 doi: "10.1109/SoutheastCon52093.2024.10500269"        # just the DOI string; we’ll link it
 paperurl: "https://ieeexplore.ieee.org/document/10500269" # optional (keeps existing download links working)
 slidesurl: "https://docs.google.com/presentation/d/1BaOdYa-ahMpI8Iu-KiyQTarcxciEbmkU/edit?usp=drive_link&ouid=118393945755563807099&rtpof=true&sd=true"
-bibtexurl: "https://doi.org/10.1109/SoutheastCon52093.2024.10500269"
+# bibtexurl: "https://doi.org/10.1109/SoutheastCon52093.2024.10500269"
 # excerpt: (delete if you don’t want Jekyll to auto-generate a blurb)
 
 ---
