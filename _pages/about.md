@@ -9,27 +9,36 @@ redirect_from:
 
 I’m a self-motivated AI researcher and engineer with a BSc in Electrical & Information Engineering from the University of Ruhuna (GPA 3.79/4.0). I specialize in machine learning and computer vision, with hands-on experience in sensing systems, deep neural networks, and real-time image processing. I love pushing the boundaries of AI to solve practical problems—everything from drone detection to drowsiness monitoring.
 
-Key Highlights
+ I am a fresh graduate from the **Electrical and Information Engineering** at the [University of Ruhuna](https://www.eng.ruh.ac.lk/) holding a First-Class Honours, (GPA 3.79/4.00). Currently I work as a **Research Assistant** at the Multidiscplinary AI Research Centre (MARC)[Multidiscplinary AI Research Centre (MARC)](https://marcuop.netlify.app/) at the [University of Peradeniya](https://eng.pdn.ac.lk/).
+
+I am interested in technology-driven **machine learning, signal processing, computer vision, and AI-driven applications**.
+
+News
 ======
 
-- **Final-Year Project:** Designed an ELF-based RF sensing system and trained CNNs & Vision Transformer models to detect micro-UAS (drones) with 98% accuracy.  
+- **Jul 2025:** 🏆 Global Winners at the IEEE IES Generative AI Challenge 2025. Selected among 305 projects from 28 countries.  
+  - Awarded a **USD 3000 travel grant** to attend the IEEE IECON 2025 in Madrid, Spain.  
+
+- **Aug 2025:** Nominated for **Best Paper Award** at MERCon 2025 (11th International Conference, University of Moratuwa).  
+
+- **Dec 2024:** 🥇 **1st Place (All Island)** – IEEE Innovations Sri Lanka Competition.  
+  - Final year project *“Micro-UAS Detection Using ELF and Machine Learning”* ranked top in the country.  
+
+- **Oct 2024:** 🥇 **1st Place (Southern Province)** – IEEE Innovations Sri Lanka Competition.  
+  - Advanced to the national finals with recognition for the drone detection project.  
+
+- **Oct 2024:** 🥉 **3rd Place (All Island)** – Undergraduate Thesis Project Competition.  
+  - Poster presentation organized by IEEE SPS Sri Lanka & CTR, SLTC Research University.  
+
+- **Aug 2025:** Designed an **ELF-based RF sensing system** and trained CNN & Vision Transformer models to detect micro-UAS (drones) with **98% accuracy**.  
+
 - **IEEE Publications & Talks:**  
-  - “AI-Enabled RF-Sensing for Radar Detection of Body-Worn IEDs,” IEEE SoutheastCon 2024 (Presented in Atlanta, USA)  
-  - Poster presentation at USF AI + X Symposium, December 2023  
-- **Industry Experience:**  
-  - **Machine Vision Engineer**, Ansell Lanka (Nov 2024 – Present): Architected a YOLOv8-based glove inspection pipeline, cutting manual QA time by 70%.  
-  - **Cybersecurity Intern**, Sri Lanka Telecom Mobitel (Oct 2023 – Jan 2024): Performed penetration tests (Nmap, MobSF) and SOC monitoring (QRadar, Darktrace, MS Defender).  
-- **Awards & Recognition:**  
-  - 1st Place, IEEE Innovations Sri Lanka Southern Province, Oct 2024  
-  - 1st Place, IEEE Innovations Sri Lanka All-Island, Dec 2024  
-  - 3rd Place, IEEE SPS Thesis Competition, Oct 2024  
-- **Leadership & Outreach:**  
-  - Captain, University of Ruhuna Soccer Team (2023–2024)  
-  - President, Telecommunication & Networking Circle (2024)  
-  - Editor, Gaveshakayo Hiking Club Newsletter (2021–2024)  
+  - “AI-Enabled RF-Sensing for Radar Detection of Body-Worn IEDs,” *IEEE SoutheastCon 2024* (Atlanta, USA).  
+  - Poster presentation at *USF AI + X Symposium* (Dec 2023).  
+
 
 Getting started
 ======
 
-> Ready to jump in? [Explore my projects →](/projects)  
+> Ready to jump in? [Explore my projects](/projects)  
 > Or [download my full CV](/files/Dilshara_Herath_CV.pdf) to get all the details.  

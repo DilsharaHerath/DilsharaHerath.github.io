@@ -1,6 +1,6 @@
 ---
 title: "Machine Fault Monitoring using Spectral Correlation and Deep Learning"
-excerpt: "<img src='/images/projects/drowsiness/system2.png' style='width:60%; max-width:400px;'>"
+excerpt: "<img src='/images/projects/machine_Fault/Meth1.1.png' style='width:60%; max-width:400px;'>"
 collection: portfolio
 ---
 
