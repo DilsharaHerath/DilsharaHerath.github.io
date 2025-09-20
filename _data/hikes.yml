@@ -145,3 +145,34 @@
   title: Dolukanda Mountain
   location: Kurunagala, Sri Lanka
   # caption: Sunrise ridge at Ella Rock
+
+
+
+
+- file: IMG_4342.JPG             # full-res in /images/hikes/
+  thumb: thumbs/IMG_4342.webp    # lightweight thumbnail (see step 4)
+  title: Dolukanda Mountain
+  location: Kurunagala, Sri Lanka
+  # caption: Sunrise ridge at Ella Rock
+
+- file: IMG_4343.JPG
+  thumb: thumbs/IMG_4343.webp
+  title: Yakdessagala Mountain
+  location: Kurunagala, Sri Lanka
+
+- file: IMG_4344.JPG             # full-res in /images/hikes/
+  thumb: thumbs/IMG_4344.webp    # lightweight thumbnail (see step 4)
+  title: Yakdessagala Mountain 
+  location: Kurunagala, Sri Lanka
+  # caption: Sunrise ridge at Ella Rock
+
+- file: IMG_4345.jpg
+  thumb: thumbs/IMG_4345.webp
+  title: Gerandiella Mountain
+  location: Kalugala , Sri Lanka
+  # caption: Night ascent for the sunrise
+
+- file: IMG_4348.JPG             # full-res in /images/hikes/
+  thumb: thumbs/IMG_4348.webp    # lightweight thumbnail (see step 4)
+  title: Alagalla Mountain
+  location: Sabaragamuwa , Sri Lanka
