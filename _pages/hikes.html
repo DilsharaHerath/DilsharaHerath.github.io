@@ -14,4 +14,43 @@ This page is a photo journal of memorable climbs, ridgelines, and forest trails.
   {% for item in site.data.hikes %}
     {% include hike-card.html item=item %}
   {% endfor %}
+  <style>
+/* Quick inline test — you can move this to _sass/_custom.scss after it works */
+
+/* Masonry-style gallery using CSS columns */
+.hike-grid{
+  column-width: 240px;      /* smaller = smaller cards, more columns */
+  column-gap: 1rem;
+}
+
+/* Each card packs into columns and keeps its own height */
+figure.hike-card{
+  break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
+  display: inline-block;
+  width: 100%;
+  margin: 0 0 1rem 0;
+  background: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 12px rgba(0,0,0,.06);
+}
+
+.hike-card img{
+  width: 100%;
+  height: auto;             /* keep natural aspect ratio */
+  display: block;
+}
+
+.hike-card__meta{
+  display: grid;
+  gap: 2px;
+  padding: .6rem .8rem .8rem;
+  font-size: .9rem;
+}
+.hike-card__title{ font-weight:700; }
+.hike-card__loc{ color:#666; }
+.hike-card__cap{ color:#555; }
+</style>
 </div>
