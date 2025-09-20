@@ -1,21 +1,35 @@
-# Each item = one photo in the gallery
-- file: IMG_4297.JPG
+- file: IMG_4297.JPG             # full-res in /images/hikes/
+  thumb: thumbs/IMG_4297.webp    # lightweight thumbnail (see step 4)
   title: Ella Rock
   location: Ella, Sri Lanka
-  date: 2024-08-15
   caption: Sunrise ridge at Ella Rock
-  album: Central Highlands
 
 - file: IMG_4298.JPG
-  title: Knuckles Range Camp
-  location: Knuckles, Sri Lanka
-  date: 2024-01-10
-  caption: Cloud forest camp at 1500m
-  album: Knuckles
-
-- file: IMG_4301.JPG
+  thumb: thumbs/IMG_4298.webp
   title: Adam’s Peak (Sri Pada)
-  location: Nallathanniya, Sri Lanka
-  date: 2024-04-02
+  location: Nallathanniya
   caption: Night ascent for the sunrise
-  album: Sri Pada
+
+- file: IMG_4301.JPG             # full-res in /images/hikes/
+  thumb: thumbs/IMG_4301.webp    # lightweight thumbnail (see step 4)
+  title: Ella Rock
+  location: Ella, Sri Lanka
+  caption: Sunrise ridge at Ella Rock
+
+- file: IMG_4303.JPG
+  thumb: thumbs/IMG_IMG_43034298.webp
+  title: Adam’s Peak (Sri Pada)
+  location: Nallathanniya
+  caption: Night ascent for the sunrise
+
+- file: IMG_4304.JPG             # full-res in /images/hikes/
+  thumb: thumbs/IMG_4304.webp    # lightweight thumbnail (see step 4)
+  title: Ella Rock
+  location: Ella, Sri Lanka
+  caption: Sunrise ridge at Ella Rock
+
+- file: IMG_4305.JPG
+  thumb: thumbs/IMG_4305.webp
+  title: Adam’s Peak (Sri Pada)
+  location: Nallathanniya
+  caption: Night ascent for the sunrise

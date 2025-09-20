@@ -1,8 +1,37 @@
-{% assign img_path = '/images/hikes/' | append: include.item.file | prepend: base_path %}
+{% include base_path %}
+
+{%- comment -%}
+Supports either:
+- file:   filename in /images/hikes/  OR an absolute URL
+- thumb:  (optional) smaller image used in the grid (filename or URL)
+- full:   (optional) big image to open when clicked (filename or URL)
+If thumb/full are omitted, falls back to `file`.
+{%- endcomment -%}
+
+{%- assign thumb_raw = include.item.thumb | default: include.item.file -%}
+{%- assign full_raw  = include.item.full  | default: include.item.file -%}
+
+{%- if thumb_raw contains '://' -%}
+  {%- assign thumb_src = thumb_raw -%}
+{%- else -%}
+  {%- assign thumb_src = '/images/hikes/' | append: thumb_raw | prepend: base_path -%}
+{%- endif -%}
+
+{%- if full_raw contains '://' -%}
+  {%- assign full_src = full_raw -%}
+{%- else -%}
+  {%- assign full_src = '/images/hikes/' | append: full_raw | prepend: base_path -%}
+{%- endif -%}
 
 <figure class="hike-card">
-  <a href="{{ img_path }}" target="_blank" rel="noopener">
-    <img src="{{ img_path }}" alt="{{ include.item.title | default: 'Hike photo' }}">
+  <a href="{{ full_src }}" target="_blank" rel="noopener">
+    <img
+      src="{{ thumb_src }}"
+      alt="{{ include.item.title | default: 'Hike photo' }}"
+      loading="lazy"
+      decoding="async"
+      referrerpolicy="no-referrer"
+    >
   </a>
   <figcaption class="hike-card__meta">
     {% if include.item.title %}<span class="hike-card__title">{{ include.item.title }}</span>{% endif %}
