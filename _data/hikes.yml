@@ -1,35 +1,34 @@
 - file: IMG_4297.JPG             # full-res in /images/hikes/
   thumb: thumbs/IMG_4297.webp    # lightweight thumbnail (see step 4)
-  title: Ella Rock
-  location: Ella, Sri Lanka
-  caption: Sunrise ridge at Ella Rock
+  title: Seven Falls
+  location: Kaluganga, Sri Lanka
+  # caption: Sunrise ridge at Ella Rock
 
 - file: IMG_4298.JPG
   thumb: thumbs/IMG_4298.webp
-  title: Adam’s Peak (Sri Pada)
-  location: Nallathanniya
-  caption: Night ascent for the sunrise
+  title: Seven Falls
+  location: Kaluganga, Sri Lanka
 
 - file: IMG_4301.JPG             # full-res in /images/hikes/
   thumb: thumbs/IMG_4301.webp    # lightweight thumbnail (see step 4)
-  title: Ella Rock
-  location: Ella, Sri Lanka
-  caption: Sunrise ridge at Ella Rock
+  title: Gerandi Falls
+  location: Pussellava, Sri Lanka
+  # caption: Sunrise ridge at Ella Rock
 
-- file: IMG_4303.JPG
+- file: 20200219_100440.JPG
   thumb: thumbs/IMG_IMG_43034298.webp
-  title: Adam’s Peak (Sri Pada)
-  location: Nallathanniya
-  caption: Night ascent for the sunrise
+  title: Kotiyagala Mountain
+  location: Rikillagaskada, Sri Lanka
+  # caption: Night ascent for the sunrise
 
-- file: IMG_4304.JPG             # full-res in /images/hikes/
-  thumb: thumbs/IMG_4304.webp    # lightweight thumbnail (see step 4)
-  title: Ella Rock
-  location: Ella, Sri Lanka
-  caption: Sunrise ridge at Ella Rock
+- file: IMG_4303.JPG             # full-res in /images/hikes/
+  thumb: thumbs/IMG_4303.webp    # lightweight thumbnail (see step 4)
+  title: Manigala Mountain
+  location: Atanwala, Sri Lanka
+  # caption: Sunrise ridge at Ella Rock
 
 - file: IMG_4305.JPG
   thumb: thumbs/IMG_4305.webp
-  title: Adam’s Peak (Sri Pada)
-  location: Nallathanniya
-  caption: Night ascent for the sunrise
+  title: Manigala Mountain
+  location: Atanwala, Sri Lanka
+  # caption: Sunrise ridge at Ella Rock
