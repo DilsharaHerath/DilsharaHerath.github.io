@@ -15,7 +15,7 @@
   location: Pussellava, Sri Lanka
   # caption: Sunrise ridge at Ella Rock
 
-- file: 20200219_100440.JPG
+- file: 20200219_100440.jpg
   thumb: thumbs/IMG_IMG_43034298.webp
   title: Kotiyagala Mountain
   location: Rikillagaskada, Sri Lanka
@@ -31,4 +31,117 @@
   thumb: thumbs/IMG_4305.webp
   title: Manigala Mountain
   location: Atanwala, Sri Lanka
+  # caption: Sunrise ridge at Ella Rock
+
+
+
+
+- file: IMG_4304.JPG             # full-res in /images/hikes/
+  thumb: thumbs/IMG_4304.webp    # lightweight thumbnail (see step 4)
+  title: Manigala Mountain
+  location: Atanwala, Sri Lanka
+
+- file: IMG_4310.JPG
+  thumb: thumbs/IMG_4310.webp
+  title: Kotiyagala Mountain
+  location: Rikillagaskada, Sri Lanka
+
+- file: IMG_4312.JPG             # full-res in /images/hikes/
+  thumb: thumbs/IMG_4312.webp    # lightweight thumbnail (see step 4)
+  title: Kotiyagala Mountain
+  location: Rikillagaskada, Sri Lanka
+
+- file: IMG_4317.jpg
+  thumb: thumbs/IMG_4317.webp
+  title: Kolapathana Waterfall 
+  location: Mandawaramnuwara, Sri Lanka
+
+- file: IMG_4319.JPG             # full-res in /images/hikes/
+  thumb: thumbs/IMG_4319.webp    # lightweight thumbnail (see step 4)
+  title: Raxagala Mountain (Kinihira Kanda)
+  location: Dolosbage range, Sri Lanka
+
+- file: IMG_4320.JPG
+  thumb: thumbs/IMG_4320.webp
+  title: Raxagala Mountain (Kinihira Kanda)
+  location: Dolosbage range, Sri Lanka
+  # caption: Sunrise ridge at Ella Rock
+
+
+
+
+
+- file: IMG_4321.JPG             # full-res in /images/hikes/
+  thumb: thumbs/IMG_4321.webp    # lightweight thumbnail (see step 4)
+  title: PEttigala Rock
+  location: babaragala, Sri Lanka
+  # caption: Sunrise ridge at Ella Rock
+
+- file: IMG_4324.JPG
+  thumb: thumbs/IMG_4324.webp
+  title: Hunnasgiriya Mountain
+  location: Hunnasgiriya, Sri Lanka
+
+- file: IMG_4325.JPG             # full-res in /images/hikes/
+  thumb: thumbs/IMG_4325.webp    # lightweight thumbnail (see step 4)
+  title: Moon Plains
+  location: Nuwara Eliya, Sri Lanka
+  # caption: Sunrise ridge at Ella Rock
+
+- file: IMG_4327.jpg
+  thumb: thumbs/IMG_4327.webp
+  title: Rawana Waterfall
+  location: Ella, Sri Lanka
+  # caption: Night ascent for the sunrise
+
+- file: IMG_4330.JPG             # full-res in /images/hikes/
+  thumb: thumbs/IMG_4330.webp    # lightweight thumbnail (see step 4)
+  title: Brandigala Rock
+  location: Matale, Sri Lanka
+  # caption: Sunrise ridge at Ella Rock
+
+- file: IMG_4331.JPG
+  thumb: thumbs/IMG_4331.webp
+  title: Katusukonda Mountain
+  location: Hanthana Mountain Range, Sri Lanka
+  # caption: Sunrise ridge at Ella Rock
+
+
+
+
+
+- file: IMG_4332.JPG             # full-res in /images/hikes/
+  thumb: thumbs/IMG_4332.webp    # lightweight thumbnail (see step 4)
+  title: Uragala Mountain
+  location: Hanthana Mountain Range, Sri Lanka
+  # caption: Sunrise ridge at Ella Rock
+
+- file: IMG_4334.JPG
+  thumb: thumbs/IMG_4334.webp
+  title: Arangala Mountain
+  location: Naula, Sri Lanka
+  caption: The Hiker 'Dilshara'
+
+- file: IMG_4337.JPG             # full-res in /images/hikes/
+  thumb: thumbs/IMG_4337.webp    # lightweight thumbnail (see step 4)
+  title: Arangala Mountain 
+  location: Naula, Sri Lanka
+  # caption: Sunrise ridge at Ella Rock
+
+- file: IMG_4338.jpg
+  thumb: thumbs/IMG_4338.webp
+  title: Dolukanda Montain
+  location: Kurunagala, Sri Lanka
+  # caption: Night ascent for the sunrise
+
+- file: IMG_4339.JPG             # full-res in /images/hikes/
+  thumb: thumbs/IMG_4339.webp    # lightweight thumbnail (see step 4)
+  title: Dolukanda Mountain
+  location: Kurunagala, Sri Lanka
+  # caption: Sunrise ridge at Ella Rock
+
+- file: IMG_4341.JPG
+  thumb: thumbs/IMG_4305.webp
+  title: Dolukanda Mountain
+  location: Kurunagala, Sri Lanka
   # caption: Sunrise ridge at Ella Rock
