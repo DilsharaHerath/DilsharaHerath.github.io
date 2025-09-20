@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Hikes"
+permalink: /hikes/
+author_profile: true
+---
+
+<p><strong>Experienced hiker – 60+ hikes across Sri Lanka.</strong>  
+This page is a photo journal of memorable climbs, ridgelines, and forest trails. (Tap a photo to open full size.)</p>
+
+{% include base_path %}
+
+<div class="hike-grid">
+  {% for item in site.data.hikes %}
+    {% include hike-card.html item=item %}
+  {% endfor %}
+</div>

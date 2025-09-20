@@ -4,3 +4,39 @@
 .pub__contrib { margin: .25rem 0; }
 .pub__doi { margin: .25rem 0; }
 .pub__status { opacity: .8; font-weight: 400; }
+
+/* Hike gallery */
+.hike-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.hike-card {
+  margin: 0;
+  background: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 12px rgba(0,0,0,.06);
+  transition: transform .12s ease-out;
+}
+
+.hike-card:hover { transform: translateY(-2px); }
+
+.hike-card img {
+  display: block;
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.hike-card__meta {
+  display: grid;
+  gap: 2px;
+  padding: .6rem .8rem .8rem;
+  font-size: .9rem;
+}
+
+.hike-card__title { font-weight: 700; }
+.hike-card__loc   { color: #666; }
+.hike-card__cap   { color: #555; }

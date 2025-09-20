@@ -1,0 +1,21 @@
+# Each item = one photo in the gallery
+- file: IMG_4297.JPG
+  title: Ella Rock
+  location: Ella, Sri Lanka
+  date: 2024-08-15
+  caption: Sunrise ridge at Ella Rock
+  album: Central Highlands
+
+- file: IMG_4298.JPG
+  title: Knuckles Range Camp
+  location: Knuckles, Sri Lanka
+  date: 2024-01-10
+  caption: Cloud forest camp at 1500m
+  album: Knuckles
+
+- file: IMG_4301.JPG
+  title: Adam’s Peak (Sri Pada)
+  location: Nallathanniya, Sri Lanka
+  date: 2024-04-02
+  caption: Night ascent for the sunrise
+  album: Sri Pada

@@ -1,0 +1,12 @@
+{% assign img_path = '/images/hikes/' | append: include.item.file | prepend: base_path %}
+
+<figure class="hike-card">
+  <a href="{{ img_path }}" target="_blank" rel="noopener">
+    <img src="{{ img_path }}" alt="{{ include.item.title | default: 'Hike photo' }}">
+  </a>
+  <figcaption class="hike-card__meta">
+    {% if include.item.title %}<span class="hike-card__title">{{ include.item.title }}</span>{% endif %}
+    {% if include.item.location %}<span class="hike-card__loc">{{ include.item.location }}</span>{% endif %}
+    {% if include.item.caption %}<span class="hike-card__cap">{{ include.item.caption }}</span>{% endif %}
+  </figcaption>
+</figure>

@@ -11,7 +11,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Project"
+  - title: "Projects"
     url: /projects/
 
   # - title: "Talks"
@@ -25,9 +25,14 @@ main:
     
   - title: "CV"
     url: /files/Dilshara_Herath_CV.pdf
+  
+  - title: "Hikes"
+    url: /hikes/
     
   # - title: "CV"
   #   url: /cv-json/
     
   # - title: "Guide"
   #   url: /markdown/
+
+  
