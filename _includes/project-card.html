@@ -7,7 +7,7 @@
 
   <div class="project-card__media">
     {% if item.hero %}
-      <img src="{{ item.hero | relative_url }}" alt="{{ item.title | escape }}">
+      <img src="{{ item.hero | relative_url }}" alt="{{ item.title | escape }}" style="width:60%;max-width:400px;height:auto;">
     {% else %}
       <div class="project-card__placeholder">No image</div>
     {% endif %}

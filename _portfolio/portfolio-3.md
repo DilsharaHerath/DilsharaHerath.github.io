@@ -13,4 +13,4 @@ excerpt: >
   and detecting fetal kicks using an AI pipeline for continuous monitoring.
 order: 20
 ---
-(Any additional Markdown for the detail page…)
+
