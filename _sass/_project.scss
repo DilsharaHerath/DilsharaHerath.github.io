@@ -10,22 +10,23 @@
 }
 
 .project-card {
-  display: grid;
-  grid-template-columns: 260px 1fr;
-  gap: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
   padding-bottom: 1.5rem;
   border-bottom: 1px solid var(--border, #e0e0e0);
+}
 
-  @media (max-width: 768px) {
-    grid-template-columns: 1fr;
-  }
+.project-card__media {
+  width: 100%;
+  max-width: 420px; /* adjust to taste */
 }
 
 .project-card__media img {
   width: 100%;
-  height: auto;
-  border-radius: 8px;
+  height: 240px;       /* fixed height */
   object-fit: cover;
+  border-radius: 8px;
   box-shadow: 0 8px 25px rgba(0,0,0,0.08);
 }
 

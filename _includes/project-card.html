@@ -1,5 +1,10 @@
 {% assign item = include.project %}
 <article class="project-card">
+  <h2 class="project-card__title">
+    <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+    {% if item.status %}<span class="project-card__meta">({{ item.status }})</span>{% endif %}
+  </h2>
+
   <div class="project-card__media">
     {% if item.hero %}
       <img src="{{ item.hero | relative_url }}" alt="{{ item.title | escape }}">
@@ -9,10 +14,6 @@
   </div>
 
   <div class="project-card__content">
-    <h2 class="project-card__title">
-      {{ item.title }}
-      {% if item.status %}<span class="project-card__meta">({{ item.status }})</span>{% endif %}
-    </h2>
 
     <p class="project-card__links">
       {% if item.primary_link_url %}
