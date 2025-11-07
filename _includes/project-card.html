@@ -1,0 +1,44 @@
+{% assign item = include.project %}
+<article class="project-card">
+  <div class="project-card__media">
+    {% if item.hero %}
+      <img src="{{ item.hero | relative_url }}" alt="{{ item.title | escape }}">
+    {% else %}
+      <div class="project-card__placeholder">No image</div>
+    {% endif %}
+  </div>
+
+  <div class="project-card__content">
+    <h2 class="project-card__title">
+      {{ item.title }}
+      {% if item.status %}<span class="project-card__meta">({{ item.status }})</span>{% endif %}
+    </h2>
+
+    <p class="project-card__links">
+      {% if item.primary_link_url %}
+        <a href="{{ item.primary_link_url }}" class="project-card__link" target="_blank" rel="noopener">
+          {{ item.primary_link_text | default: "Details" }}
+        </a>
+      {% endif %}
+      {% if item.secondary_link_url %}
+        | <a href="{{ item.secondary_link_url }}" class="project-card__link" target="_blank" rel="noopener">
+            {{ item.secondary_link_text | default: "PDF" }}
+          </a>
+      {% endif %}
+    </p>
+
+    {% if item.group %}
+      <p class="project-card__group"><strong>Group:</strong> {{ item.group }}</p>
+    {% endif %}
+
+    {% if item.excerpt %}
+      <div class="project-card__summary">
+        {{ item.excerpt | markdownify }}
+      </div>
+    {% endif %}
+
+    {% if item.methods %}
+      <p class="project-card__methods"><strong>Methods:</strong> {{ item.methods }}</p>
+    {% endif %}
+  </div>
+</article>
