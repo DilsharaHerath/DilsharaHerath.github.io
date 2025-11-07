@@ -5,7 +5,7 @@ category: conferences            # or: manuscripts
 date: 2025-08-14
 venue: 'MERCon 2025, Moratuwa'
 venueurl: "https://mercon.uom.lk/"     # optional link to the conf/journal
-status: "Accepted & to be publication"          # optional
+status: "Accepted, presented & to be published"          # optional
 authors:
   - name: Dilshara Herath
     underline: true

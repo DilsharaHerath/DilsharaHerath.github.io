@@ -5,13 +5,15 @@ category: conferences            # or: manuscripts
 date: 2025-09-05
 venue: 'IEEE 19th International Conference on Industrial and Information Systems (ICIIS) 2025'
 venueurl: "https://iciis.net/"     # optional link to the conf/journal
-status: "Under Review"          # optional
+status: "Accepted"          # optional
 authors:
   - name: Dilshara Herath
     underline: true
   - name: Oshada Rathnayake
-  - name: Thiwanka Silva
+  - name: Thiwanka De Silva
   - name: Sanjula Senadeera
+  - name: Roshan Godaliyadda
+  - name: Parakrama Ekanayake
 # award: "Outstanding Paper Award Nominee (Track: Computer Vision and Image processing)"              # optional
 contribution: "Conceptualization, Methodology, Formal analysis, Software, Validation, Writing – Original Draft."
 # doi: "10.1109/SoutheastCon52093.2024.10500269"        # just the DOI string; we’ll link it

@@ -5,7 +5,7 @@ category: conferences            # or: manuscripts
 date: 2025-09-01
 venue: "IEEE IECON 2025"
 venueurl: "https://iecon2025.org/"     # optional link to the conf/journal
-status: "Accepted & to be publication"          # optional
+status: "Accepted, presented & to be published"          # optional
 authors:
   - name: Dilshara Herath
     underline: true
