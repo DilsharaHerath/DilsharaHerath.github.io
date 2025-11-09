@@ -1,7 +1,20 @@
 ---
+# title: "Machine Fault Monitoring using Spectral Correlation and Deep Learning"
+# excerpt: "<img src='/images/projects/machine_Fault/Meth1.1.png' style='width:60%; max-width:400px;'>"
+# collection: portfolio
+
 title: "Machine Fault Monitoring using Spectral Correlation and Deep Learning"
-excerpt: "<img src='/images/projects/machine_Fault/Meth1.1.png' style='width:60%; max-width:400px;'>"
-collection: portfolio
+# status: "Final Year Project"
+hero: "/images/projects/machine_Fault/Bearing.jpg"
+primary_link_text: "Paper"
+primary_link_url: ""
+secondary_link_text: "Paper 2"
+secondary_link_url: "https://github.com/DilsharaHerath/Vision-Based-Driver-Drowsiness-Monitoring"
+group: "Dilshara Herath, Chinthaka Abeyrathne, Prabhani Jayaweera"
+Keywords: "Object Detection, YOLO-You look only once, compuet vision, Drowsiness Detection"
+excerpt: >
+  This project presents a robust deep learning approach to diagnose bearing faults in rotating machinery using vibration signal processing and Spectral Correlation Density (SCD) images.
+order: 3
 ---
 
 [![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-%2312100E?logo=github&style=for-the-badge)](https://github.com/DilsharaHerath/Intelligent-Fault-Detection-in-Rotating-Machinery)
