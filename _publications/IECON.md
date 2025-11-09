@@ -5,7 +5,7 @@ category: conferences            # or: manuscripts
 date: 2025-09-01
 venue: "IEEE IECON 2025"
 venueurl: "https://iecon2025.org/"     # optional link to the conf/journal
-status: "Accepted, presented & to be published"          # optional
+status: "Published"          # optional
 authors:
   - name: Dilshara Herath
     underline: true
@@ -14,8 +14,8 @@ authors:
   - name: Harindra Sandun Mavikumbure
 # award: "Outstanding Paper Award"              # optional
 contribution: "Conceptualization, Methodology, Formal analysis, Software, Validation, Writing – Original Draft, Review & Editing."
-# doi: "10.1109/SoutheastCon52093.2024.10500269"        # just the DOI string; we’ll link it
-paperurl: "https://www.researchgate.net/publication/395298308_GAN-Driven_Signal_Denoising_and_Enhancement_for_Robust_Drone_Motor_Detection" # optional (keeps existing download links working)
+doi: "10.1109/IECON58223.2025.11221467"        # just the DOI string; we’ll link it
+paperurl: "https://ieeexplore.ieee.org/document/11221467" # optional (keeps existing download links working)
 # slidesurl: "https://docs.google.com/presentation/d/1BaOdYa-ahMpI8Iu-KiyQTarcxciEbmkU/edit?usp=drive_link&ouid=118393945755563807099&rtpof=true&sd=true"
 # bibtexurl: "https://doi.org/10.1109/SoutheastCon52093.2024.10500269"
 # excerpt: (delete if you don’t want Jekyll to auto-generate a blurb)

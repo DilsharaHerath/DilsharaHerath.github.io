@@ -9,8 +9,8 @@ status: "Accepted"          # optional
 authors:
   - name: Dilshara Herath
     underline: true
-  - name: Oshada Rathnayake
   - name: Thiwanka De Silva
+  - name: Oshada Rathnayake
   - name: Sanjula Senadeera
   - name: Roshan Godaliyadda
   - name: Parakrama Ekanayake
