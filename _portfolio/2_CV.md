@@ -1,11 +1,7 @@
 ---
-# title: "AI-Enabled RF-Sensing for Radar Detection of Body-Worn IEDs"
-# excerpt: "<img src='/images/projects/IED_meth.jpg' style='width:60%; max-width:400px;'>"
-# collection: portfolio
-
 title: "Computer Vision based Solar Irradiance Forecasting"
 # status: "Final Year Project"
-hero: "/images/projects/ied.jpg"
+hero: "/images/projects/Irradiance/pipeline.png"
 primary_link_text: "Github"
 primary_link_url: "https://github.com/DilsharaHerath/CV-Solar-Irradiance"
 # secondary_link_text: "Slides"
