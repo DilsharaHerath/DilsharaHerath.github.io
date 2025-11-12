@@ -71,4 +71,4 @@ This research developed a comprehensive hybrid deep learning pipeline for very s
 
 ## Acknowledgments
 
-This work was conducted as the Final Year Research Project under the supervision of [Supervisor Name], Department of [Department], [University Name], Sri Lanka. The experimental setup was supported by the university’s Renewable Energy Laboratory.
+This work was conducted with the guidance from Prof. Roshan Godaliyadda, Prof. Parakrama Ekanayake from the Department of Electrical and Electronic Engineering, University of Peradeniya.
