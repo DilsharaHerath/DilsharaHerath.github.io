@@ -5,7 +5,7 @@ hero: "/images/projects/FYP/Aero_Sense.png"
 primary_link_text: "Poster"
 primary_link_url: "/images/projects/FYP/Extremely Low Frequency (ELF) based Sensing and AIML-based Identification of Micro-UAS.pdf"
 secondary_link_text: "Youtube"
-secondary_link_url: "https://www.youtube.com/watch?v=yx4PDA-_mSQ"
+secondary_link_url: "https://youtu.be/yx4PDA-_mSQ"
 # group: "Dilshara Herath, Supun Ganegoda, Sudeepa Ranasinghe, Chatura Seneviratne, Arjuna Madanayake"
 Keywords: "Signal Processing, PCB Design and Fabrication, Machine learning, Passive Sensing"
 excerpt: >
@@ -78,6 +78,11 @@ This research engineered a fully integrated, passive detection system capable of
     <figcaption>Live GUI displaying UAS Detection and the accuracy of the detection</figcaption>
   </figure>
 </div>
+
+## Additional Resources
+
+- [Project Poster]("/images/projects/FYP/Extremely Low Frequency (ELF) based Sensing and AIML-based Identification of Micro-UAS.pdf")  
+- [Demonstration Video on YouTube](https://youtu.be/yx4PDA-_mSQ)
 
 ## Acknowledgments
 
