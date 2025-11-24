@@ -37,15 +37,15 @@ News
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem;">
   <figure style="margin:0;">
     <div class="img-zoom-wrap">
-      <img class="img-zoom" src="https://drive.google.com/file/d/1Q7vQN4iEevcLECe5MHEpAl1dnALv_Fu_/view?usp=sharing" alt="Conference photo 1">
+      <img class="img-zoom" src="images\talks\IECON 2025 Presenting.jpg" alt="Conference photo 1">
     </div>
-    <figcaption style="margin-top:0.35rem;font-size:0.95rem;color:#555;">I am presentinhg my winning paper at the IEEE IECON 2025 in **Madrid, Spain**</figcaption>
+    <figcaption style="margin-top:0.35rem;font-size:0.95rem;color:#555;">Presenting my winning paper at the IEEE IECON 2025 in **Madrid, Spain**</figcaption>
   </figure>
   <figure style="margin:0;">
     <div class="img-zoom-wrap">
-      <img class="img-zoom" src="https://drive.google.com/file/d/1Q7vQN4iEevcLECe5MHEpAl1dnALv_Fu_/view?usp=sharing" alt="Conference photo 2">
+      <img class="img-zoom" src="images\talks\Receiving the Award.jpg" alt="Conference photo 2">
     </div>
-    <figcaption style="margin-top:0.35rem;font-size:0.95rem;color:#555;">I am receiving the Award as Global Winners at the IEEE IES Generative AI Challenge 2025</figcaption>
+    <figcaption style="margin-top:0.35rem;font-size:0.95rem;color:#555;">Receiving the Award as Global Winners at the IEEE IES Generative AI Challenge 2025</figcaption>
   </figure>
 </div>
 
