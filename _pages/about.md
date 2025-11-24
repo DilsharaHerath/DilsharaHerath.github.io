@@ -28,26 +28,44 @@ News
   </figure>
 </div> -->
 
+
+
 <style>
-.img-zoom-wrap{overflow:hidden;border-radius:10px;}
-.img-zoom{display:block;width:100%;height:auto;transition:transform .35s ease;}
-.img-zoom-wrap:hover .img-zoom{transform:scale(1.06);} /* tweak scale as needed */
+.img-frame{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:320px;           /* shared height */
+  padding:8px;
+  background:#f7f7f7;
+  border-radius:10px;
+}
+.img-fit{
+  max-height:100%;
+  max-width:100%;
+  width:auto;
+  height:auto;
+  object-fit:contain;
+  transition:transform .25s ease;
+}
+.img-frame:hover .img-fit{ transform:scale(1.03); } /* mild hover zoom without cropping */
 </style>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem;">
   <figure style="margin:0;">
-    <div class="img-zoom-wrap">
-      <img class="img-zoom" src="images\talks\IECON 2025 Presenting.jpg" alt="Conference photo 1">
+    <div class="img-frame">
+      <img class="img-fit" src="images\talks\IECON 2025 Presenting.jpg" alt="Conference portrait">
     </div>
-    <figcaption style="margin-top:0.35rem;font-size:0.95rem;color:#555;">Presenting my winning paper at the IEEE IECON 2025 in **Madrid, Spain**</figcaption>
+    <figcaption style="margin-top:0.35rem;font-size:0.95rem;color:#555;">Presenting my winning paper at the IEEE IECON 2025 in <span style="color:#d35400;font-weight:700;">Madrid, Spain</span></figcaption>
   </figure>
   <figure style="margin:0;">
-    <div class="img-zoom-wrap">
-      <img class="img-zoom" src="images\talks\Receiving the Award.jpg" alt="Conference photo 2">
+    <div class="img-frame">
+      <img class="img-fit" src="images\talks\Receiving the Award.jpg" alt="Conference landscape">
     </div>
     <figcaption style="margin-top:0.35rem;font-size:0.95rem;color:#555;">Receiving the Award as Global Winners at the IEEE IES Generative AI Challenge 2025</figcaption>
   </figure>
 </div>
+
 
 
 - **Aug 2025:** Nominated for **Best Paper Award** at MERCon 2025 (11th International Conference, University of Moratuwa).  
