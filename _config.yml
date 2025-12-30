@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "Dilshara.png"
   name             : "Dilshara Herath"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her" "He/Him"  
   bio              : "A driven and innovative researcher with a deep passion for advancing in Machine Learning and Signal Processing."
   location         : "Kandy, Sri Lanka"
-  # employer         : "University of Ruhuna"
-  employer         : "RA, University of Peradeniya"
+  employer         : "Research Assistant"
+  employer         : "University of Peradeniya"
   uri              : # URL
   email            : "dilshara.herath3@gmail.com" 
 
