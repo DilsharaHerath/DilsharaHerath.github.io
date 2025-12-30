@@ -25,7 +25,7 @@ author:
   avatar           : "Dilshara.png"
   name             : "Dilshara Herath"
   pronouns         : # example: "she/her" "He/Him"  
-  bio              : "A driven and innovative researcher with a deep passion for advancing in Machine Learning and Signal Processing."
+  bio              : "Research Assistant | Machine Learning, Signal Processing and Computer Vision Enthusiast | Bachelor of Science in Engineering"
   location         : "Kandy, Sri Lanka"
   employer         : "Research Assistant"
   employer         : "University of Peradeniya"
@@ -224,7 +224,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 

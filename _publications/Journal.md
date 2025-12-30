@@ -1,23 +1,24 @@
 ---
-title: "AI-Enabled RF-Sensing for Radar Detection of Body-Worn IEDs"
+title: "ELF Passive Radio Sensing and AI-Perception of Micro-UAS"
 collection: publications
 category: manuscripts            # or: manuscripts
-date: 2024-06-01
-venue: "IEEE Transactions on Aerospace and Electronic Systems"
-venueurl: "https://ieee-aess.org/publications/taes"     # optional link to the conf/journal
-status: "Under Review"          # optional
+date: 2025-12-01
+venue: "IEEE Sensors Journal"
+venueurl: "https://ieee-sensors.org/ieee-sensors-journal/"     # optional link to the conf/journal
+status: "Under Review - IF 4.5"          # optional
 authors:
   - name: Dilshara Herath
     underline: true
   - name: Supun Ganegoda
   - name: Sudeepa Ranasinghe
-  - name: Chatura Seneviratne
   - name: Hiruni Silva
+  - name: Chatura Seneviratne
+  - name: Soumyajit Mandal
   - name: Arjuna Madanayake
 # award: "Outstanding Paper Award"              # optional
 contribution: "Conceptualization, Methodology, Formal analysis, Software, Validation, Writing – Original Draft, Review & Editing."
 # doi: "10.1109/SoutheastCon52093.2024.10500269"        # just the DOI string; we’ll link it
-# paperurl: "https://ieeexplore.ieee.org/document/10500269" # optional (keeps existing download links working)
+paperurl: "https://drive.google.com/file/d/1IEhtpIPU5mk340E3WVjDRBGQR3pv2-cb/view?usp=sharing" # optional (keeps existing download links working)
 # slidesurl: "https://docs.google.com/presentation/d/1BaOdYa-ahMpI8Iu-KiyQTarcxciEbmkU/edit?usp=drive_link&ouid=118393945755563807099&rtpof=true&sd=true"
 # bibtexurl: "https://doi.org/10.1109/SoutheastCon52093.2024.10500269"
 # excerpt: (delete if you don’t want Jekyll to auto-generate a blurb)

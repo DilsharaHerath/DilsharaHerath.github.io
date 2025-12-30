@@ -15,7 +15,7 @@ authors:
   - name: Madhusanka Liyanage
 # award: "Outstanding Paper Award Nominee (Track: Computer Vision and Image processing)"              # optional
 contribution: "Conceptualization, Methodology, Formal analysis, Software, Validation, Writing – Original Draft, Review & Editing."
-doi: "10.13140/RG.2.2.35031.53925"        # just the DOI string; we’ll link it
+# doi: "10.13140/RG.2.2.35031.53925"        # just the DOI string; we’ll link it
 paperurl: "https://www.researchgate.net/publication/395299214_Fusing_Spectral_Correlation_Density_Imaging_with_Deep_Learning_for_Intelligent_Fault_Diagnosis_in_Rotating_Machinery" # optional (keeps existing download links working)
 # slidesurl: "https://docs.google.com/presentation/d/1JiMLeW11taiq26fHqtzFod48C3Zq2jVP/edit?usp=drive_link&ouid=118393945755563807099&rtpof=true&sd=true"
 # bibtexurl: "https://doi.org/10.1109/SoutheastCon52093.2024.10500269"

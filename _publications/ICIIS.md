@@ -17,7 +17,7 @@ authors:
 # award: "Outstanding Paper Award Nominee (Track: Computer Vision and Image processing)"              # optional
 contribution: "Conceptualization, Methodology, Formal analysis, Software, Validation, Writing – Original Draft."
 # doi: "10.1109/SoutheastCon52093.2024.10500269"        # just the DOI string; we’ll link it
-# paperurl: "https://www.researchgate.net/publication/395297908_Unveiling_Misalignment_Fault_Severities_A_Novel_SCD-CNN_Framework_for_Rotating_Machinery" # optional (keeps existing download links working)
+paperurl: "https://drive.google.com/file/d/19cxAAo216SmKzexCfNDDKUzaRORCupHO/view?usp=sharing" # optional (keeps existing download links working)
 # slidesurl: "https://docs.google.com/presentation/d/1JiMLeW11taiq26fHqtzFod48C3Zq2jVP/edit?usp=drive_link&ouid=118393945755563807099&rtpof=true&sd=true"
 # bibtexurl: "https://doi.org/10.1109/SoutheastCon52093.2024.10500269"
 # excerpt: (delete if you don’t want Jekyll to auto-generate a blurb)
