@@ -16,6 +16,8 @@ IECON is the flagship yearly conference of the IEEE Industrial Electronics Socie
 
 The conference program included workshops, tutorials, panels, keynotes, and presentations of original research and industrial applications. Madrid provided an excellent backdrop for networking with the world's industry, research, and academia professionals.
 
+The paper was published in IEEE Xplore and is available [here](https://ieeexplore.ieee.org/document/11221467).
+
 ## Conference Gallery
 
 <style>
@@ -59,7 +61,7 @@ The conference program included workshops, tutorials, panels, keynotes, and pres
   <img src="/images/talks/iecon/img3.jpg" alt="Conference Badge" loading="lazy">
   <img src="/images/talks/iecon/img4.0.jpg" alt="Networking Event" loading="lazy">
   <img src="/images/talks/iecon/img5.jpg" alt="Madrid City View" loading="lazy">
-  <img src="/images/talks/iecon/img6.jpg" alt="Conference Dinner" loading="lazy">
+  <img src="/images/talks/iecon/img6.JPG" alt="Conference Dinner" loading="lazy">
 </div>
 
 ## About the Conference
