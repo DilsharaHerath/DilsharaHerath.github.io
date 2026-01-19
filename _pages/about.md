@@ -14,6 +14,8 @@ I am interested in **machine learning, signal processing, computer vision** and 
 News
 ======
 
+- **Jan 2026:** My Journal Paper got **Accepted** at **IEEE Sensors Journal (Q1, Impact Factor 4.5)** for the Novel Passive Drone Detection research done in collaboration with the Florida International University, USA and Brookhaven National Laboratory, USA.  
+
 - **Jul 2025:** 🏆 Global Winners at the IEEE IES Generative AI Challenge 2025. Selected among 305 projects from 28 countries.  
   - Awarded a **USD 3000 travel grant** to attend the IEEE IECON 2025 in Madrid, Spain.  
 
