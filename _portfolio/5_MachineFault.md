@@ -1,6 +1,6 @@
 ---
 title: "SCD-CNN Framework for Rotating Machinery Fault Detection"
-status: "Research Publication"
+# status: "Research Publication"
 hero: "/images/projects/machine_Fault/DL_Pipeline.png"
 primary_link_text: "Paper (MERCon 2025)"
 primary_link_url: "https://ieeexplore.ieee.org/document/11217055"
@@ -10,7 +10,7 @@ secondary_link_url: "https://docs.google.com/presentation/d/1JiMLeW11taiq26fHqtz
 Keywords: "Convolutional Neural Networks, Cyclostationary Analysis, Digital Signal Processing, Spectral Correlation Density, Predictive Maintenance"
 excerpt: >
   A novel framework integrating cyclostationary signal processing with deep learning for detecting shaft misalignment in rotating machinery, achieving 96% accuracy using SCD-based CNN classification.
-order: 14
+order: 5
 ---
 
 This research proposes an innovative framework for detecting shaft misalignment faults in rotating machinery by integrating Spectral Correlation Density (SCD) imaging with deep learning classification. Leveraging vibration data from two distinct bearing housings, the system transforms time-domain signals into cyclostationary-derived SCD images that capture periodic fault signatures while suppressing noise.
