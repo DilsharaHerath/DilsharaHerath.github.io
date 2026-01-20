@@ -10,7 +10,7 @@ primary_link_url: "https://github.com/DilsharaHerath/CV-Solar-Irradiance"
 Keywords: "Image processing, computer vision, Solar Irradiance forecasting, vision transformers, time-series transformers"
 excerpt: >
   hybrid deep learning pipeline for very short-term solar irradiance forecasting, targeting a 20-minute prediction horizon.
-order: 3
+order: 9
 ---
 
 ## Project Overview

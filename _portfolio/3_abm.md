@@ -10,7 +10,7 @@ hero: "/images/projects/ABM/ABM-Animal Behavior.png"
 Keywords: "Agent based modeling, Hidden Markov chains, human-animal interation"
 excerpt: >
   Agent Based Modeling for Human-Animal Behavior and Interaction. Exploring Elephant and Baboon datasets for movement pattern analysis using machine learning and mathematical perspective.
-order: 3
+order: 8
 ---
 
 

@@ -5,7 +5,7 @@ category: manuscripts            # or: manuscripts
 date: 2025-12-01
 venue: "IEEE Sensors Journal"
 venueurl: "https://ieee-sensors.org/ieee-sensors-journal/"     # optional link to the conf/journal
-status: "Accepted on 17, January"          # optional
+status: "Accepted"          # optional
 authors:
   - name: Dilshara Herath
     underline: true

@@ -16,7 +16,7 @@ excerpt: >
   Developed a novel GAN-based framework for denoising extremely low-frequency (ELF) electromagnetic signals
   emitted by BLDC drone motors, addressing environmental noise degradation for enhanced drone detection and
   motor health monitoring.
-order: 3
+order: 7
 ---
 
 
