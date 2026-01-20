@@ -9,7 +9,7 @@ secondary_link_url: "https://docs.google.com/presentation/d/1kcJmhUCLGmNrhstPpaz
 Keywords: "Generative Adversarial Networks, Signal Denoising, Drone Detection, Spectral Correlation Density, CNN Classification, BLDC Motors"
 excerpt: >
   Novel GAN framework denoises ELF electromagnetic signals from drone motors, outperforming traditional methods and boosting CNN detection accuracy by 24%.
-order: 7
+order: 6
 ---
 
 
