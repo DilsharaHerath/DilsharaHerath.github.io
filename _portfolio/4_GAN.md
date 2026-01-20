@@ -3,8 +3,8 @@ title: "GAN-Driven Signal Denoising for Robust Drone Motor Detection"
 # status: "Research Publication"
 hero: "/images/projects/GAN/pipeline.png"
 primary_link_text: "Paper (IECON 2025)"
-primary_link_url: "Presentation"
-secondary_link_text: "https://ieeexplore.ieee.org/document/11221467"
+primary_link_url: "https://ieeexplore.ieee.org/document/11221467"
+secondary_link_text: "Presentation"
 secondary_link_url: "https://docs.google.com/presentation/d/1kcJmhUCLGmNrhstPpaz9DCe4vlOTvSVb/edit?usp=drive_link&ouid=118393945755563807099&rtpof=true&sd=true"  # Update with DOI post-publication
 Keywords: "Generative Adversarial Networks, Signal Denoising, Drone Detection, Spectral Correlation Density, CNN Classification, BLDC Motors"
 excerpt: >
