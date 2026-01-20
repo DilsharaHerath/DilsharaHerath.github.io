@@ -1,7 +1,7 @@
 ---
 title: "AI-Enabled RF Radar for Body-Worn IED Detection"
 # status: "Conference Publication"
-hero: "/images/projects/IED/system_architecture.png"
+hero: "/images/projects/IED_Bomb/meth.jpg"
 primary_link_text: "Paper (SoutheastCon 2024)"
 primary_link_url: "https://ieeexplore.ieee.org/document/10500269"
 secondary_link_text: "Conference Presentation"
