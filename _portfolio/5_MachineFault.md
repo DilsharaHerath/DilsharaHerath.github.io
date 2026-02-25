@@ -106,6 +106,11 @@ Three convolutional neural network architectures—VGG19, DenseNet121, and Incep
 | Misalign 03 | Mild | 0.3 mm | 1,842 |
 | Misalign 05 | Severe | 0.5 mm | 1,842 |
 
+
+## Additional Resources
+
+- [Project Poster](https://docs.google.com/presentation/d/1kcdRBDcxLS88_vVkRzIIphF5KdU14uZv/edit?usp=drive_link&ouid=118393945755563807099&rtpof=true&sd=true)
+
 ## Acknowledgments
 
 This work was conducted at the Department of Electrical and Information Engineering and Department of Mechanical and Manufacturing Engineering, University of Ruhuna, Galle, Sri Lanka. The research was guided by Dr. Chathura Seneviratne with collaborative contributions from Chinthaka Abeyrathne and Chamindu Adithya. The study utilized the publicly accessible Rotating Machinery Vibration Dataset for training and validation.

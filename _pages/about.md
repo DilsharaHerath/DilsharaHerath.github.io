@@ -9,12 +9,12 @@ redirect_from:
 
  I am a fresh graduate from the **Electrical and Information Engineering** at the [University of Ruhuna](https://www.eng.ruh.ac.lk/) holding a **First-Class Honours**, (GPA 3.79/4.00). Currently I work as a **Research Assistant and Project Coordinator** at the [Multidiscplinary AI Research Centre (MARC)](https://marcuop.netlify.app/) at the [University of Peradeniya](https://eng.pdn.ac.lk/).
 
-I am interested in **machine learning, signal processing, computer vision** and their **applications**.
+I am interested in **machine learning, computer vision and signal processing** with their applications.
 
 News
 ======
 
-- **Jan 2026:** Our paper, [**"ELF Passive Radio Sensing and AI-Perception of Micro-UAS,"**](https://drive.google.com/file/d/1IEhtpIPU5mk340E3WVjDRBGQR3pv2-cb/view?usp=sharing) has been accepted for publication in the [**IEEE Sensors Journal**](https://ieee-sensors.org/ieee-sensors-journal/) **(Q1, Impact Factor 4.5)**. 
+- **Jan 2026:** Our paper, [**"ELF Passive Radio Sensing and AI-Perception of Micro-UAS,"**](https://ieeexplore.ieee.org/document/11410039) has been accepted for publication in the [**IEEE Sensors Journal**](https://ieee-sensors.org/ieee-sensors-journal/) **(Q1, Impact Factor 4.5)**. 
 
 - **Jul 2025:** 🏆 Global Winners at the IEEE IES Generative AI Challenge 2025. Selected among 305 projects from 28 countries.  
   - Awarded a **USD 3000 travel grant** to attend the IEEE IECON 2025 in Madrid, Spain.  

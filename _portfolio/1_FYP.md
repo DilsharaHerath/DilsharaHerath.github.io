@@ -3,7 +3,7 @@ title: "Extremely Low Frequency (ELF) based Sensing and AI/ML-based Identificati
 status: "Final Year Project"
 hero: "/images/projects/FYP/Aero_Sense.png"
 primary_link_text: "Poster"
-primary_link_url: "https://docs.google.com/presentation/d/1bI8CGIxicCzlNOC4dLXX8mCY9rAsdsa8/edit?usp=sharing&ouid=118393945755563807099&rtpof=true&sd=true"
+primary_link_url: "https://docs.google.com/presentation/d/1spaJE-Gi6zi2HtA702juin5YsksShyxT/edit?usp=sharing&ouid=118393945755563807099&rtpof=true&sd=true"
 secondary_link_text: "Youtube"
 secondary_link_url: "https://youtu.be/yx4PDA-_mSQ"
 # group: "Dilshara Herath, Supun Ganegoda, Sudeepa Ranasinghe, Chatura Seneviratne, Arjuna Madanayake"
@@ -81,7 +81,8 @@ This work is **Accepted for Publication at IEEE Sensors Journal (Q1)** (Impact F
 
 ## Additional Resources
 
-- [Project Poster](https://docs.google.com/presentation/d/1bI8CGIxicCzlNOC4dLXX8mCY9rAsdsa8/edit?usp=sharing&ouid=118393945755563807099&rtpof=true&sd=true)  
+- [Project Presentation](https://docs.google.com/presentation/d/1bI8CGIxicCzlNOC4dLXX8mCY9rAsdsa8/edit?usp=sharing&ouid=118393945755563807099&rtpof=true&sd=true)  
+- [Project Poster](https://docs.google.com/presentation/d/1spaJE-Gi6zi2HtA702juin5YsksShyxT/edit?usp=sharing&ouid=118393945755563807099&rtpof=true&sd=true)
 - [Demonstration Video on YouTube](https://youtu.be/yx4PDA-_mSQ)
 
 ## Acknowledgments
