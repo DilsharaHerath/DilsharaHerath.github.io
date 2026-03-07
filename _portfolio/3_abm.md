@@ -1,5 +1,5 @@
 ---
-title: "Agent Based Modeling for Human-Animal Behavior and Interaction"
+title: "Agent Based Modeling for Human-Animal Behavior and Interaction (Ongoing)"
 # status: "Final Year Project"
 hero: "/images/projects/ABM/ABM-Animal Behavior.png"
 # primary_link_text: "Paper"
