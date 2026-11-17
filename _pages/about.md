@@ -7,14 +7,17 @@ redirect_from:
   - /about.html
 ---
 
- I am a fresh graduate from the **Electrical and Information Engineering** at the [University of Ruhuna](https://www.eng.ruh.ac.lk/) holding a **First-Class Honours**, (GPA 3.79/4.00). Currently I work as a **Research Assistant and Project Coordinator** at the [Multidiscplinary AI Research Centre (MARC)](https://marcuop.netlify.app/) at the [University of Peradeniya](https://eng.pdn.ac.lk/).
+**First-year PhD Student in Computer Science, Columbia University, USA.**
 
-I am interested in **machine learning, computer vision and signal processing** with their applications.
+I am a First Year PhD Student in Computer Science at the Columbia University (Fall 2026 cohort). Before my PhD, I worked as a Research Assistant at the [Multidiscplinary AI Research Centre (MARC)](https://marcuop.netlify.app/) at the [University of Peradeniya](https://eng.pdn.ac.lk/). I did my Bachelors in Electrical and Information Engineering at the [University of Ruhuna](https://www.eng.ruh.ac.lk/) 
+
+I am interested in **Computer Vision, Computational Imaging and Signal Processing** with their applications. 
 
 News
 ======
+- **Aug 2026:** Started my PhD in Computer Science at Columbia University 🎉. 
 
-- **Jan 2026:** Our paper, [**"ELF Passive Radio Sensing and AI-Perception of Micro-UAS,"**](https://ieeexplore.ieee.org/document/11410039) has been accepted for publication in the [**IEEE Sensors Journal**](https://ieee-sensors.org/ieee-sensors-journal/) **(Q1, Impact Factor 4.5)**. 
+- **Jan 2026:** Our paper, ["ELF Passive Radio Sensing and AI-Perception of Micro-UAS,"](https://ieeexplore.ieee.org/document/11410039) has been accepted for publication in the [IEEE Sensors Journal](https://ieee-sensors.org/ieee-sensors-journal/) (Q1, Impact Factor 4.5). 
 
 - **Jul 2025:** 🏆 Global Winners at the IEEE IES Generative AI Challenge 2025. Selected among 305 projects from 28 countries.  
   - Awarded a **USD 3000 travel grant** to attend the IEEE IECON 2025 in Madrid, Spain.  

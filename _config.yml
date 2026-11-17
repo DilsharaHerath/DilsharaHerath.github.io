@@ -25,19 +25,19 @@ author:
   avatar           : "Dilshara2.jpg"
   name             : "Dilshara Herath"
   pronouns         : # example: "she/her" "He/Him"  
-  bio              : "Research Assistant @ University of Peradeniya | Machine Learning, Signal Processing and Computer Vision Enthusiast"
-  location         : "Kandy, Sri Lanka"
-  employer         : "Research Assistant"
-  employer         : "University of Peradeniya"
+  bio              : "PhD Student @ Columbia University, USA |  Computer Vision, Computational Imaging, Signal Processing"
+  location         : "New York, United States"
+  employer         : "Graduate Research Assistant"
+  employer         : "Columbia University"
   uri              : # URL
-  email            : "dilshara.herath3@gmail.com" 
+  email            : "kdh2155@columbia.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=qLqGz5QAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/0009-0004-1071-1698"
-  semantic         : # URL
+  semantic         : # https://www.semanticscholar.org/author/Dilshara-Herath/2298063524
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Dilshara-Herath?ev=hdr_xprf"
   scopus           : # URL
