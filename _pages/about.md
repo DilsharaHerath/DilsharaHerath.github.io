@@ -9,7 +9,7 @@ redirect_from:
 
 **First-year PhD Student in Computer Science, Columbia University, USA.**
 
-I am a First Year PhD Student in Computer Science at the Columbia University (Fall 2026 cohort). Before my PhD, I worked as a Research Assistant at the [Multidiscplinary AI Research Centre (MARC)](https://marcuop.netlify.app/) at the [University of Peradeniya](https://eng.pdn.ac.lk/). I did my Bachelors in Electrical and Information Engineering at the [University of Ruhuna](https://www.eng.ruh.ac.lk/) 
+I am a First Year PhD Student in Computer Science at the [Columbia University](https://www.columbia.edu/). Before my PhD, I worked as a Research Assistant at the [MARC](https://marcuop.netlify.app/) at the [University of Peradeniya](https://eng.pdn.ac.lk/). I did my Bachelors in Electrical and Information Engineering at the [University of Ruhuna](https://www.eng.ruh.ac.lk/) 
 
 I am interested in **Computer Vision, Computational Imaging and Signal Processing** with their applications. 
 
